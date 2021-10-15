@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 230,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Gigazine.net"
+    },
+    "author": "@GIGAZINE",
+    "title": "Appleが日本時間2021年9月15日に新製品発表イベントを開催予定、何が発表されるのか？",
+    "description": "Appleが日本時間の2021年9月15日(水)午前2時から新製品発表会を開催することが明らかになりました。続きを読む...",
+    "url": "https://gigazine.net/news/20210908-apple-event/",
+    "urlToImage": "https://i.gzn.jp/img/2021/09/08/apple-event/00.jpg",
+    "publishedAt": "2021-09-08T01:42:00Z",
+    "content": "iPhone 13SOS - GIGAZINE\r\n2021iPhone 139 - GIGAZINE\r\niPhoneFoxconniPhone 13 - GIGAZINE\r\n2021iPhone 13Touch ID - GIGAZINE\r\nAppleAirPodsGooglePixel 6 - GIGAZINE\r\nAppleiPhoneApple WatchAirPods - GIGAZINE… [+6 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Frank Schräer",
+    "title": "Mittwoch: WhatsApp-Kritik, Telekom-Verkauf, Wasserstoff, Clean-Code & iPhone-Tag",
+    "description": "WhatsApp prüft unverschlüsselt + Telekom verkauft Tochter + Wasserstoff gewinnen in Rotterdam + Softwarequalität mit Clean Code + Apples September-Event",
+    "url": "https://www.heise.de/news/Mittwoch-WhatsApp-Kritik-Telekom-Verkauf-Wasserstoff-Clean-Code-iPhone-Tag-6185668.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/1/6/4/8/7/1/mittwoch-ea7a53bb5508f1b9.jpeg",
+    "publishedAt": "2021-09-08T04:30:00Z",
+    "content": "Soziale Netzwerke und Messenger-Dienste stecken in einem Dilemma. Einerseits verlangen die Nutzer Datenschutz und Privatsphäre, andererseits pochen Behörden und Regierungen auf Legalität. Außerdem wo… [+3341 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "8th-gen iPad shipping times slip to 3-6 weeks ahead of Apple event",
+    "description": "Apple on Tuesday confirmed that it will hold its next special event on September 14, when the company is expected to introduce iPhone 13 and Apple Watch Series 7. However, Apple might also introduce a new entry-level iPad model at that event, as shipping time…",
+    "url": "http://9to5mac.com/2021/09/07/8th-gen-ipad-shipping-times-slip-to-3-6-weeks-ahead-of-apple-event/",
+    "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/ipad-8-2020-9to5mac-1.jpg?resize=1200%2C628&ssl=1",
+    "publishedAt": "2021-09-08T01:39:56Z",
+    "content": "Apple on Tuesday confirmed that it will hold its next special event on September 14, when the company is expected to introduce iPhone 13 and Apple Watch Series 7. However, Apple might also introduce … [+1923 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "VMWare’s ESXi hypervisor won’t be compatible with 2019 Intel Mac Pro",
+    "description": "Although the current generation Mac Pro is not an Apple Silicon machine, it is an extremely powerful computer that can be used for a number of heavy tasks such as rendering and running virtual machines. Even so, VMWare recently announced that it will not incl…",
+    "url": "http://9to5mac.com/2021/09/07/vmwares-esxi-hypervisor-wont-be-compatible-with-2019-intel-mac-pro/",
+    "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/12/Mac-Pro-Top-Features-9to5Mac-1.jpg?resize=1200%2C628&ssl=1",
+    "publishedAt": "2021-09-08T01:16:09Z",
+    "content": "Although the current generation Mac Pro is not an Apple Silicon machine, it is an extremely powerful computer that can be used for a number of heavy tasks such as rendering and running virtual machin… [+1990 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (AppleInsider Staff)",
+    "title": "Apple Pay again target of patent infringement suit",
+    "description": "Apple was hit with yet another lawsuit on Tuesday, with patent holdings firm RFCyber leveraging five pieces of intellectual property against the iPhone maker relating to mobile payments technologies.Filed with the U.S. Court for the Western District of Texas,…",
+    "url": "https://appleinsider.com/articles/21/09/08/apple-pay-again-target-of-patent-infringement-suit",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/44278-85991-210907-ApplePay-xl.jpg",
+    "publishedAt": "2021-09-08T02:35:57Z",
+    "content": "Apple was hit with yet another lawsuit on Tuesday, with patent holdings firm RFCyber leveraging five pieces of intellectual property against the iPhone maker relating to mobile payments technologies.… [+2077 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (AppleInsider Staff)",
+    "title": "Apple Arcade nets 'Zookeeper World' and 'Thumper: Pocket Edition+'",
+    "description": "Apple on Tuesday announced match-3 game \"Zookeeper World\" will arrive on Apple Arcade this Friday, with \"Thumper: Pocket Edition+\" soon to follow.Developed by Kiteretsu, \"Zookeeper World\" is billed as an action game that sees players solve match-3 puzzles as …",
+    "url": "https://appleinsider.com/articles/21/09/08/apple-arcade-nets-zookeeper-world-and-thumper-pocket-edition",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/44279-85994-210907-Zookeeper-xl.jpg",
+    "publishedAt": "2021-09-08T03:52:50Z",
+    "content": "Apple on Tuesday announced match-3 game \"Zookeeper World\" will arrive on Apple Arcade this Friday, with \"Thumper: Pocket Edition+\" soon to follow. \r\nDeveloped by Kiteretsu, \"Zookeeper World\" is bille… [+1157 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Mikey Campbell)",
+    "title": "Apple organized 'aggressive' lobbying campaign to counter prohibitive App Store legislation",
+    "description": "An investigative report published Tuesday illustrates the full measure of lobbying force Apple assembled in attempts to thwart U.S. legislation that would police App Store policy.According to documents reviewed by the Tech Transparency Project, an offshoot of…",
+    "url": "https://appleinsider.com/articles/21/09/08/apple-organized-aggressive-lobbying-campaign-to-counter-prohibitive-app-store-legislation",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/44276-85989-210907-AppStore-xl.jpg",
+    "publishedAt": "2021-09-08T00:19:55Z",
+    "content": "An investigative report published Tuesday illustrates the full measure of lobbying force Apple assembled in attempts to thwart U.S. legislation that would police App Store policy.\r\nAccording to docum… [+4006 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (AppleInsider Staff)",
+    "title": "Apple's iPad stock is running low amid rumors of refresh",
+    "description": "Stock of Apple's most affordable iPad model is running low at retail stores and online, suggesting a rumored refresh of the entry-level tablet is near.Apple.com has severely limited iPad availability, with nearly all configurations showing significant delays …",
+    "url": "https://appleinsider.com/articles/21/09/08/apples-ipad-stock-is-running-low-amid-rumors-of-refresh",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/44277-85990-210907-iPad-xl.jpg",
+    "publishedAt": "2021-09-08T01:47:10Z",
+    "content": "Stock of Apple's most affordable iPad model is running low at retail stores and online, suggesting a rumored refresh of the entry-level tablet is near. \r\nApple.com has severely limited iPad availabil… [+1478 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yanko Design"
+    },
+    "author": "Takashi Yamada",
+    "title": "This high-tech air purifier uses laser sensor + plasma field to track and kill 99.99% of all airborne particles",
+    "description": "This high-tech air purifier uses laser sensor + plasma field to track and kill 99.99% of all airborne particlesGoing above and beyond anything your HEPA-based air purifiers can do (or even some of the UV ones), OneLife X uses plasma-field technology to purify…",
+    "url": "https://www.yankodesign.com/2021/09/07/this-high-tech-air-purifier-uses-laser-sensor-plasma-field-to-track-and-kill-99-99-of-all-airborne-particles/",
+    "urlToImage": "https://www.yankodesign.com/images/design_news/2021/09/335754/plasma_air_purifier_with_no_filters_to_replace_layout.jpg",
+    "publishedAt": "2021-09-08T01:45:19Z",
+    "content": "Going above and beyond anything your HEPA-based air purifiers can do (or even some of the UV ones), OneLife X uses plasma-field technology to purify the air… yes, the same plasma energy found in our … [+3943 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Community"
+    },
+    "author": "Rei Padla",
+    "title": "Samsung Galaxy Note trademark name not renewed, may be discontinued",
+    "description": "Samsung is still the number one phone maker in the world but it needs to make major improvements if it it wants to keep its crown. It still directly competes with Apple. Huawei used to be a top contender but it dropped out of the Top 5. Xiaomi is growing fast…",
+    "url": "https://androidcommunity.com/samsung-galaxy-note-trademark-name-not-renewed-may-be-discontinued-20210907/",
+    "urlToImage": "https://cdn.androidcommunity.com/wp-content/uploads/2021/09/Samsung-Galaxy-Note-Trademark.jpeg",
+    "publishedAt": "2021-09-08T03:00:37Z",
+    "content": "Samsung is still the number one phone maker in the world but it needs to make major improvements if it it wants to keep its crown. It still directly competes with Apple. Huawei used to be a top conte… [+1320 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Community"
+    },
+    "author": "Ida Torres",
+    "title": "Microsoft launches Start, a personalized news feed",
+    "description": "One of the online behaviors that have increased during the past year is that people are keeping a close eye on the news, mostly through social media. But sometimes it’s hard to sift through all the other content that you see there so it’s better to get news a…",
+    "url": "https://androidcommunity.com/microsoft-launches-start-a-personalized-news-feed-20210907/",
+    "urlToImage": "https://cdn.androidcommunity.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-08-at-12.07.47-PM.jpg",
+    "publishedAt": "2021-09-08T04:14:00Z",
+    "content": "One of the online behaviors that have increased during the past year is that people are keeping a close eye on the news, mostly through social media. But sometimes it’s hard to sift through all the o… [+1948 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "Jacob Siegal",
+    "title": "Pixel 3 owners are reporting bricked phones at an alarming rate",
+    "description": "The Pixel 6 is unlike any phone Google has ever released before. It has a modern design that actually stands toe to toe with offerings from Apple and Samsung. Google has also confirmed that the Pixel 6 will be the first to features its own Tensor chipset. And…",
+    "url": "https://bgr.com/tech/pixel-3-owners-are-reporting-bricked-phones-at-an-alarming-rate/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2018/10/bgr-google-pixel-3-1.jpg?quality=70&strip=all",
+    "publishedAt": "2021-09-08T01:09:25Z",
+    "content": "The Pixel 6 is unlike any phone Google has ever released before. It has a modern design that actually stands toe to toe with offerings from Apple and Samsung. Google has also confirmed that the Pixel… [+2452 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kirsten Korosec,Nariko Mizoguchi",
+    "title": "フォードがアップルの秘密自動車開発プロジェクトを率いた幹部を採用",
+    "description": "ソフトウェアと他の高度なテクノロジーで優位に立ちたいFord Motor（フォード・モーター）は、Apple（アップル）の特別プロジェクトチームを率いていたDoug Field（ダグ・フィールド）氏を社に迎え入れた。\r\n\r\nかつてTesla（テスラ）のエンジニアリング担当上級副社長だったフィールド氏は米国時間9月7日に、Fordの高度テクノロジーと組み込みシステムの最高責任者に指名された。フィールド氏は直近ではAppleの特別プロジェクト担当副社長を務めた。この特別プロジェクトのチームは、いわゆるTitanカープ…",
+    "url": "https://jp.techcrunch.com/2021/09/08/2021-09-07-ford-hires-apple-executive-who-led-its-secret-car-project/",
+    "urlToImage": "https://jp.techcrunch.com/wp-content/uploads/2021/09/Ford.jpeg?w=1024",
+    "publishedAt": "2021-09-08T00:45:44Z",
+    "content": "Ford MotorAppleDoug Field\r\nTesla97FordAppleTitan\r\nFordCEOJim FarleyFordLincoln\r\nTeslaSUVFordTeslaModel 3Ford\r\nFordHau Thai-TangEPLM / D-FordFord Ion Park\r\n19871993\r\nFordF-1501965ContinentalModel TFor… [+47 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "tagesschau.de"
+    },
+    "author": "tagesschau",
+    "title": "Medienbericht zu Mitlesern: Sind WhatsApp-Chats wirklich geheim?",
+    "description": "Bislang hat WhatsApp, das zu Facebook gehört, immer behauptet, alle Nachrichten seien geheim. Niemand könne sie lesen. Das US-Magazin \"ProPublica\" hat jetzt festgestellt, dass das nicht die volle Wahrheit ist. <em>Von Marcus Schuler.</em>",
+    "url": "https://www.tagesschau.de/wirtschaft/whatsapp-chats-geheim-101.html",
+    "urlToImage": "https://www.tagesschau.de/multimedia/bilder/whatsapp-logo-101~_v-original.jpg",
+    "publishedAt": "2021-09-08T01:24:39Z",
+    "content": "Stand: 08.09.2021 03:24 Uhr\r\nBislang hat WhatsApp, das zu Facebook gehört, immer behauptet, alle Nachrichten seien geheim. Niemand könne sie lesen. Das US-Magazin \"ProPublica\" hat jetzt festgestellt,… [+2701 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Srad.jp"
+    },
+    "author": "nemui4 (posted by nagazou)",
+    "title": "元バイトAKBのラーメン店店主、反社会的勢力の関わりがあるとの偽通報で事業に影響",
+    "description": "AKB48派生グーブル「バイトAKB」に所属していた元アイドルの運営するラーメン店で、店主の梅澤愛優香氏が「反社会的勢力の関わり」があるとする「ウソ」の指摘が行われ、事業に影響が出たと言う。梅澤さんは東京と神奈川で計3点の店舗を経営している。5月に新規出店を計画していたが、先の指摘により計画に影響が出たことから、慰謝料など計220万円の損害賠償を求め、9月8日にも横浜地裁に提訴する（弁護士ドットコム、日刊スポーツ）。 \n\n弁護士ドットコムの記事によれば、都内在住の男性が仕入れ業者の代表に送ったフェイスブックのメッ…",
+    "url": "https://idle.srad.jp/story/21/09/07/193200/",
+    "urlToImage": "https://srad.jp/static/topics/internet_64.png",
+    "publishedAt": "2021-09-08T04:03:00Z",
+    "content": "15410771story\r\ndescriptive\r\ntypodupeerror\r\nUNIX -- Dennis Ritchie\r\nTrademarks property of their respective owners. Comments owned by the poster. ©SRAD. SRAD is an Appirits service."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ifanr.com"
+    },
+    "author": "方嘉文",
+    "title": "早报 | 苹果将于下周举行发布会 / 微信视频号可发一小时长视频 / 虚拟手办公司获融资",
+    "description": "‍• Gentle Monster 发布概念短片，预告上海概念空间\n•「丘大叔」融资已经超过一亿元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+    "url": "https://www.ifanr.com/1439673",
+    "urlToImage": "https://s3.ifanr.com/wp-content/uploads/2021/09/2048.jpeg",
+    "publishedAt": "2021-09-08T01:03:46Z",
+    "content": "9 8 \r\n<ul><li></li><li></li><li></li><li>Bisara </li><li></li><li></li><li></li><li> Microsoft Start</li><li></li><li>Gentle Monster </li><li></li><li>MANNER Allbirds </li><li>JSAUX </li><li></li></u… [+517 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cnbeta.com"
+    },
+    "author": "vivian",
+    "title": "7年换了4位主管 苹果造车计划究竟怎么了？",
+    "description": "北京时间9月8日消息，福特汽车今天宣布了一次重磅“挖角”行动，把苹果公司汽车项目主管道格·菲尔德(Doug Field)招致麾下。“Apple Car”被视为苹果的“下一个重磅产品”，但是进展似乎不顺。菲尔德的突然离职危及到了苹果开发自动驾驶汽车的努力。 阅读全文",
+    "url": "https://www.cnbeta.com/articles/tech/1176327.htm",
+    "urlToImage": "https://static.cnbetacdn.com/thumb/article/2021/0901/cccde3713f44f87.jpg",
+    "publishedAt": "2021-09-08T02:06:53Z",
+    "content": "2018CEO·(Jim Farley)\r\n74\r\n7\r\nWaymoUber\r\niPhoneiPadApple Watch\r\n2014(Project Titan)201620162019\r\n·(Bob Mansfield)\r\n2018Model 3\r\nAI·(John Giannandrea)20202024Apple CarSKLGApple Car\r\n2021·(Benjamin Lyon… [+124 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "Patrick Frater",
+    "title": "Disney Plus Sets Dates for Korea Launch, Japan Upgrade",
+    "description": "The Disney Plus streaming service will begin operations in South Korea, from Nov. 12, 2021, the company announced Wednesday, firming up a previously trailed launch. The platform was given a soft launch in Japan last year, and will now be upgraded with the add…",
+    "url": "https://variety.com/2021/global/asia/disney-plus-korea-japan-1235058494/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2021/09/Disney-StarKV-j.jpg?w=1000",
+    "publishedAt": "2021-09-08T02:36:40Z",
+    "content": "The Disney Plus streaming service will begin operations in South Korea, from Nov. 12, 2021, the company announced Wednesday, firming up a previously trailed launch.\r\nThe platform was given a soft lau… [+1915 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Adafruit.com"
+    },
+    "author": "Ben",
+    "title": "Oscilloscope Band #WearableWednesday",
+    "description": "A Wearable oscilloscope where your fingers are the probes. From anikethdhole on Hackaday.IO:Almost all Hobbyist and Makers dream about owning a Oscilloscope but due to huge prices we could not afford it. So why not make your own? I have created a Hand Held Os…",
+    "url": "https://blog.adafruit.com/2021/09/08/oscilloscope-band-wearablewednesday/",
+    "urlToImage": "https://cdn-blog.adafruit.com/uploads/2021/09/oscilloscope-band-wearablewednes.jpg",
+    "publishedAt": "2021-09-08T04:00:00Z",
+    "content": "September 8, 2021 AT 12:00 am\r\nOscilloscope Band #WearableWednesday\r\nA Wearable oscilloscope where your fingers are the probes. From anikethdhole on Hackaday.IO:\r\nAlmost all Hobbyist and Makers dream… [+3231 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Adafruit.com"
+    },
+    "author": "Stephanie",
+    "title": "Celebrate Star Trek Day Live! #StarTrekDay",
+    "description": "It’s the day we’ve all been waiting for – Star Trek Day! Set your alarms for TONIGHT at 8:30pm ET so you can join the live-streamed celebration! From Star Trek Day 2021:Live from the Skirball Cultural Center in Los Angeles, California, Star Trek Day will be h…",
+    "url": "https://blog.adafruit.com/2021/09/08/celebrate-star-trek-day-live-startrekday/",
+    "urlToImage": "https://cdn-blog.adafruit.com/uploads/2021/09/adafruit_star_trek_day_blog-1.jpg",
+    "publishedAt": "2021-09-08T04:30:14Z",
+    "content": "September 8, 2021 AT 12:30 am\r\nCelebrate Star Trek Day Live! #StarTrekDay\r\nIt’s the day we’ve all been waiting for – Star Trek Day! Set your alarms for TONIGHT at 8:30pm ET so you can join the live-s… [+3061 chars]"
+    }
+    ]
+    }
+    
